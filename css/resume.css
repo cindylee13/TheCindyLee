@@ -167,3 +167,21 @@ h2.head{
   letter-spacing: .3px;
   text-align: center;
 }
+h3 {
+    font-size: 1.59rem;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.5rem;
+  color: #000000!important;
+}
+
+.mb-9{
+  margin-bottom: 2rem;
+}
+.pro_text{
+
+  display: inline-grid;
+}
